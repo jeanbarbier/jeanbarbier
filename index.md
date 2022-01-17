@@ -48,4 +48,6 @@ The ideal candidate has a background in at least one or two of the following dis
 
 Feel free to contact me to know more about the project and do not hesitate to spread the word :)
 
+Jean
+
 ![ERC](./docs/ERC.png)
