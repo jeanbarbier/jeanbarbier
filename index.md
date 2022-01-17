@@ -51,7 +51,7 @@ The ideal candidate has a background in at least one or two of the following dis
 
 As part of ICTP, the postdoc eager to help will also have many opportunities to help in capacity building in developing countries (but not only) through organization of events, travels, teaching etc. ICTP really is a special place to do top research and make a positive impact, worldwide.
 
-PhD positions on the project are available too, funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science), check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/).
+**PhD positions on the project are available too** but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly.
 
 Feel free to contact me to know more about the project and do not hesitate to spread the word :)
 
