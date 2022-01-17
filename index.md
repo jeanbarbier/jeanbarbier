@@ -27,7 +27,7 @@ Few quotes I find particularly relevant:
 
 I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
 
-For prospective students who would like to do a PhD under my supervision, check the [openings](https://pica.cineca.it/sissa/phd-datascience-01-2022/) in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science).
+For **prospective students** who would like to do a PhD under my supervision, check the [openings](https://pica.cineca.it/sissa/phd-datascience-01-2022/) in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science).
 
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
