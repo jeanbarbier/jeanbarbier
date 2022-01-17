@@ -27,7 +27,7 @@ I addition to science, I also enjoy a lot electronic music ([some musical experi
 
 I feel honoured to be a recipient of a 1.3 million euros Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8). I'm now in the process of hiring brilliant motivated researchers to form a research group at ICTP to carry out this exciting project. We will develop novel statistical tools to better quantify the performance of Neural Networks trained on structured data (among other machine learning algorithms), using random matrix theory, statistical mechanics and information theory. Neural Nets are amazingly powerful algorithms, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. 
 
-![ERC](./docs/ERC)
+![ERC](./docs/ERC.png)
 
 I have **multiple positions open at the postdoctoral level on this ERC project**. These positions are up to 4 years and come with a competitive package (ICTP researchers are exempted of income tax), a teaching load decided by the postdoc himself, substantial funds for travelling and computer equipemnts, all that in ideal working conditions in a [exciting and interdisciplinary environment](https://www.ictp.it/research/qls.aspx). 
 
