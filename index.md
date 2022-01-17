@@ -17,13 +17,15 @@ A quote I from Niels Bohr that I find very true:
 
 > An expert is a man who has made all the mistakes which can be made in a very narrow field.
 
-I addition to science, I also enjoy a lot electronic music ([some musical experiments I've done in another life](https://soundcloud.com/junkosaur)), and pretty much any kind of sport that glide fast on snow or water. I also love free diving.
+I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any kind of mean to ride/glide fast on snow, water or air. I also love free diving.
 
 # ERC grant CHORAL: "Computational Hardness Of RepresentAtion Learning"
 
-I feel honoured to be a recipient of a prestigious grant from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8). I'm now in the process of creating a research group at ICTP to carry out my project. We will develop novel statistical tools to better quantify the performance of Neural Networks. These are amazingly powerful algorithms at the core of machine learning --the powerhouse of the "Big-Data era"--, but whose theoretical understanding remains limited when compared to their evergrowing applications in science and technology. 
+I feel honoured to be a recipient of a 1.3 million euros Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8). I'm now in the process of hiring brilliant motivated researchers to form a research group at ICTP to carry out this exciting project together. We will develop novel statistical tools to better quantify the performance of Neural Networks trained on structured data (among other machine learning algorithms). These are amazingly powerful algorithms at the core of machine learning but whose theoretical understanding remains limited when compared to their evergrowing applications in science and technology. 
 
-I have **muliple positions open at the postdoctoral level**. The ideal candidate have a background in at least one or two of the following disciplines:
+I have **muliple positions open at the postdoctoral level on this ERC project**. These come with a competitive package (ICTP reearchers are exempted of Income Taxations), a teaching load decided by the postdoc, funds for travelling, all that in ideal working conditions in a exciting and interdisciplinary environment. 
+
+The ideal candidate have a background in at least one or two of the following disciplines:
 
 * Random matrix theory
 * Disordered systems / spin glasses (from a mathematics or physics perspectives)
