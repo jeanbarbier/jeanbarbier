@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+# Hello
+
+I'm Jean Barbier, a researcher in Physics and Mathematics at the [International Center for Theoretical Physics](https://www.ictp.it/). My research interests are mainly concerned with _information processing systems_ such as appearing in machine learning, communications, signal processing and computer sciences. I 
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
