@@ -32,7 +32,7 @@ I have **multiple positions open at the postdoctoral level on this ERC project**
 The ideal candidate has a background in at least one or two of the following disciplines:
 
 * Random matrix theory
-* Disordered systems / spin glasses (from a mathematics or physics perspectives)
+* Disordered systems / spin glasses (from a mathematics or physics perspective)
 * Mathematical statistics
 * Probability
 * Information theory
