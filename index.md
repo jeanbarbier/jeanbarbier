@@ -25,7 +25,7 @@ Few quotes I find particularly relevant:
 
 > Physics is like sex: sure, it may give some practical results, but that's not why we do it. -- Richard Feynman
 
-I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any kind of mean to ride/glide fast on snow, water or air. I also love free diving.
+I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any kind of mean to ride/glide snow, water or air. I also love free diving.
 
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
