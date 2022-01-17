@@ -7,13 +7,13 @@ layout: default
 
 I'm Jean Barbier, a researcher in the Mathematical Physics of Signals and Learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the Adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Departement of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
 
-My research interests are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communications, Signal Processing and Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
+My **research interests*$ are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communications, Signal Processing and Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
 To contact me use **jbarbier@ictp.it**
 
 You can find a **short CV** [here](./docs/cv.pdf).
 
-All my article can be found through my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
+All **my articles** can be found through my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
 A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between Statistical Physics and Inference without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
 
