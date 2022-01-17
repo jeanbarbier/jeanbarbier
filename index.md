@@ -5,9 +5,9 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a researcher in the Mathematical Physics of Signals and Learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the Adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Departement of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
+I'm Jean Barbier, a researcher in the Mathematical Physics of Signals and Learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
 
-My **research interests** are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communications, Signal Processing and Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
+My **research interests** are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communication and Error Correction, Signal Processing or Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely (and rigorously) quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
 To contact me use **jbarbier@ictp.it**
 
@@ -15,7 +15,7 @@ You can find a **short CV** [here](./docs/cv.pdf).
 
 All **my articles** can be found through my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
-A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between Statistical Physics and Inference without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
+A "wide audience" video on Physics and Information Processing Systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between Statistical Physics and Inference without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
 
 Few quotes I find particularly relevant:
 
@@ -29,11 +29,11 @@ I addition to science, I also enjoy a lot electronic music ([some musical experi
 
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
-I feel honoured to be a recipient of a **Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. I'm now in the process of hiring brilliant motivated researchers to form a group at ICTP to carry out this exciting and timely project. 
+I feel honoured to be a recipient of a **Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. I'm therefore now in the process of hiring brilliant motivated researchers to form a group at ICTP to carry out this exciting and timely project. 
 
-CHORAL will develop novel statistical tools to better quantify the performance of Neural Networks trained from structured data sets. It will combine Random Matrix Theory, Statistical Mechanics and Information Theory, and will blend Physics together with mathematically rigorous approaches. Neural Nets are amazingly powerful algorithms, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to machine learning that the project will focus on is of Dictionary Learning. See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of the project's starting point.
+CHORAL will develop novel statistical tools to better quantify the performance of Neural Networks trained from structured data sets. It will combine Random Matrix Theory, Statistical Mechanics and Information Theory, and will blend Physics together with mathematically rigorous approaches. Neural Nets are amazingly powerful algorithms, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to Machine Learning that the project will focus on is of Dictionary Learning. See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of CHORAL's starting point.
 
-I have **multiple positions open at the postdoctoral level on this ERC project**. These positions are up to 4 (or even 5) years and come with a competitive salary (ICTP researchers are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. All that in an ideal working conditions in a [exciting and interdisciplinary environment](https://www.ictp.it/research/qls.aspx), right in front of the sea.
+I have **multiple positions open at the postdoctoral level on this ERC project**. These positions are up to 4 (or even 5) years and come with a competitive salary (ICTP researchers, as UNESCO employees, are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. All that in an [exciting and interdisciplinary environment](https://www.ictp.it/research/qls.aspx) with ideal working conditions, right in front of the sea.
 
 The ideal candidate has a background in at least one or two of the following disciplines:
 
