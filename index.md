@@ -5,7 +5,7 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a researcher in Physics and Mathematics at the [International Center for Theoretical Physics](https://www.ictp.it/). My research interests are centered around _information processing systems_ such as appearing in machine learning, communications, signal processing and computer sciences. I often study these systems and associated algorithms using Statistical Physics --the language of _phase transitions_-- but also its close related cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close optamility one can operate when using _efficient_ algorithms.
+I'm Jean Barbier, a researcher in Physics and Mathematics at the [International Center for Theoretical Physics](https://www.ictp.it/). My research interests are centered around _information processing systems_ such as appearing in machine learning, communications, signal processing and computer sciences. I often study these systems and associated algorithms using Statistical Physics --the language of _phase transitions_-- but also its close related cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close optamility one can operate when using _efficient_ algorithms. To know 
 
 You can check a **short CV [here](./docs/cv.pdf)**.
 
