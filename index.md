@@ -20,7 +20,9 @@ A "wide audience" video on physics and information processing systems is on [You
 Few quotes I find particularly relevant I from Niels Bohr that I find very true:
 
 > If you can't explain it simply, you don't understand it well enough. Alber Einstein
+ 
 > An expert is a man who has made all the mistakes which can be made in a very narrow field. Niels Bohr
+
 > Physics is like sex: sure, it may give some practical results, but that's not why we do it. Richard Feynman
 
 I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any kind of mean to ride/glide fast on snow, water or air. I also love free diving.
