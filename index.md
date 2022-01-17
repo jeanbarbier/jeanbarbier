@@ -7,6 +7,8 @@ layout: default
 
 I'm Jean Barbier, a researcher in the Mathematical Physics of Signals and Learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
 
+![logos](./docs/logos.png)
+
 My **research interests** are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communication and Error Correction, Signal Processing or Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely (and rigorously) quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
 To contact me use **jbarbier@ictp.it**
