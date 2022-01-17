@@ -5,17 +5,19 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a researcher in Physics and Mathematics at the [International Center for Theoretical Physics](https://www.ictp.it/) in Trieste, Italy, a gorgeous city on the Adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Departement of Data science at SISSA](https://datascience.sissa.it/), also in Trieste. My research interests are centered around _information processing systems_ such as appearing in machine learning, communications, signal processing and computer sciences. I often study these systems and associated algorithms using Statistical Physics --the language of _phase transitions_-- but also its close related cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close optamility one can operate when using _efficient_ algorithms. 
+I'm Jean Barbier, a researcher in Physics and Mathematics at the [International Center for Theoretical Physics](https://www.ictp.it/) in Trieste, Italy, a gorgeous city on the Adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Departement of Data science at SISSA](https://datascience.sissa.it/), also in Trieste. 
 
-You can check a **short CV** [here](./docs/cv.pdf).
+My research interests are centered around _information processing systems_ such as appearing in machine learning, communications, signal processing and computer sciences. I often study these systems and associated algorithms using Statistical Physics --the language of _phase transitions_-- but also its close related cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close optamility one can operate when using _efficient_ algorithms. 
 
-To know more abobut my research, here is my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
+You can find a **short CV** [here](./docs/cv.pdf).
 
-A quote I like from Niels Bohr:
+To know more about my research, check my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
+
+A quote I from Niels Bohr that I find very true:
 
 > An expert is a man who has made all the mistakes which can be made in a very narrow field.
 
-I addition of science, I also enjoy a lot electronic music (here are [some musical experiments I've done in another life](https://soundcloud.com/junkosaur)), and pretty much any kind of sport that goes fast on snow or water. I also love free diving.
+I addition to science, I also enjoy a lot electronic music ([some musical experiments I've done in another life](https://soundcloud.com/junkosaur)), and pretty much any kind of sport that glide fast on snow or water. I also love free diving.
 
 # ERC grant CHORAL: "Computational Hardness Of RepresentAtion Learning"
 
