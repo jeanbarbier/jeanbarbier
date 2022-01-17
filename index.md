@@ -15,7 +15,7 @@ You can find a **short CV** [here](./docs/cv.pdf).
 
 All my article can be found through my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
-A "wide audience" video on physics and information processing systems is on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). to go further without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
+A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between Statistical Physics and Inference without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
 
 Few quotes I find particularly relevant:
 
