@@ -9,9 +9,13 @@ I'm Jean Barbier, a researcher in Physics and Mathematics at the [International 
 
 My research interests are centered around _information processing systems_ such as appearing in machine learning, communications, signal processing and computer sciences. I often study these systems and associated algorithms using Statistical Physics --the language of _phase transitions_-- but also its close related cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close optamility one can operate when using _efficient_ algorithms. 
 
+To contact me use **jbarbier@ictp.it**
+
 You can find a **short CV** [here](./docs/cv.pdf).
 
-To know more about my research, check my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
+All my article can be found through my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
+
+A "wide audience" video on physics and information processing systems is on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). to go further without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
 
 A quote I from Niels Bohr that I find very true:
 
