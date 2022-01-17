@@ -27,6 +27,8 @@ Few quotes I find particularly relevant:
 
 I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
 
+For prospective students who would like to do a PhD under my supervision, check the [openings](https://pica.cineca.it/sissa/phd-datascience-01-2022/) in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science).
+
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
 I feel honoured to be a recipient of a **Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. I'm therefore now in the process of hiring brilliant motivated researchers to form a group at ICTP to carry out this exciting and timely project. 
@@ -48,6 +50,8 @@ The ideal candidate has a background in at least one or two of the following dis
 * Theory of approximate message passing algorithms
 
 As part of ICTP, the postdoc eager to help will also have many opportunities to help in capacity building in developing countries (but not only) through organization of events, travels, teaching etc. ICTP really is a special place to do top research and make a positive impact, worldwide.
+
+PhD positions on the project are available too, funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science), check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/).
 
 Feel free to contact me to know more about the project and do not hesitate to spread the word :)
 
