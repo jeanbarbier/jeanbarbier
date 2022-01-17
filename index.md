@@ -23,7 +23,7 @@ A quote I from Niels Bohr that I find very true:
 
 I addition to science, I also enjoy a lot electronic music ([some musical experiments from another life](https://soundcloud.com/junkosaur)), and pretty much any kind of mean to ride/glide fast on snow, water or air. I also love free diving.
 
-# ERC project CHORAL: "Computational Hardness Of RepresentAtion Learning"
+# ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
 I feel honoured to be a recipient of a 1.3 million euros Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8). I'm now in the process of hiring brilliant motivated researchers to form a research group at ICTP to carry out this exciting project. 
 
