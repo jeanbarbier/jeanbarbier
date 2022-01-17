@@ -19,6 +19,8 @@ All **my articles** can be found through my [Google Scholar](https://scholar.goo
 
 A "wide audience" video on Physics and Information Processing Systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between Statistical Physics and Inference without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
 
+A conference I particularly enjoy to organize for the third time this year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on High-dimensional Statistics in a broad sense.
+
 Few quotes I find particularly relevant:
 
 > If you can't explain it simply, you don't understand it well enough. -- Albert Einstein
