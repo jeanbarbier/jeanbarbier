@@ -9,7 +9,7 @@ I'm Jean Barbier, a researcher in the Mathematical Physics of Signals and Learni
 
 My **research interests** are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communications, Signal Processing and Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
-To contact me use **[jbarbier@ictp.it](jbarbier@ictp.it)**
+To contact me use **jbarbier@ictp.it**
 
 You can find a **short CV** [here](./docs/cv.pdf).
 
