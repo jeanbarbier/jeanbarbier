@@ -17,7 +17,7 @@ All my article can be found through my [Google Scholar](https://scholar.google.c
 
 A "wide audience" video on physics and information processing systems is on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). to go further without having to read a full research paper, check this [perspective article I wrote](https://arxiv.org/pdf/2010.14863.pdf). 
 
-Few quotes I find particularly relevant I from Niels Bohr that I find very true:
+Few quotes I find particularly relevant:
 
 > If you can't explain it simply, you don't understand it well enough. Alber Einstein
  
