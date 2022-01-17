@@ -57,6 +57,6 @@ As part of ICTP, the postdoc eager to help will also have many opportunities to 
 
 **PhD positions on the project are available too** but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly.
 
-Feel free to contact me to know more about the project and do not hesitate to spread the word :)
+Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
 
 ![ERC](./docs/ERC.png)
