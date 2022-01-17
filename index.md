@@ -33,7 +33,7 @@ I feel honoured to be a recipient of a 1.3 million euros Starting Grant in Mathe
 
 CHORAL will develop novel statistical tools to better quantify the performance of Neural Networks trained on structured data using random matrix theory, statistical mechanics and information theory. Neural Nets are amazingly powerful algorithms, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem that the project will focus on is of Dictionary Learning. See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of what the project is about (as starting point).
 
-I have **multiple positions open at the postdoctoral level on this ERC project**. These positions are up to 4 years and come with a competitive package (ICTP researchers are exempted of income tax), a teaching load decided by the postdoc himself, substantial funds for travelling and computer equipemnts, all that in ideal working conditions in a [exciting and interdisciplinary environment](https://www.ictp.it/research/qls.aspx). 
+I have **multiple positions open at the postdoctoral level on this ERC project**. These positions are up to 4 (or even 5) years and come with a competitive package (ICTP researchers are exempted of income tax), a teaching load decided by the postdoc himself, substantial funds for travelling and computer equipemnts, all that in ideal working conditions in a [exciting and interdisciplinary environment](https://www.ictp.it/research/qls.aspx). 
 
 The ideal candidate has a background in at least one or two of the following disciplines:
 
