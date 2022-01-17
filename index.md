@@ -40,4 +40,4 @@ The ideal candidate has a background in at least one or two of the following dis
 * Theory of approximate message passing algorithms
 
 
-Feel free to contact me to know more about the project. And spread the word :)
+Feel free to contact me to know more about the project. Don't hesitate to spread the word :)
