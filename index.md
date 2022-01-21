@@ -59,6 +59,8 @@ The ideal candidate has a background in at least one or two of the following dis
 
 As part of the ICTP community, the postdoc eager to help will also have many opportunities for capacity building in developing countries (but not only) through organization of events, travels and networking, teaching etc. **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
 
+It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
+
 **PhD positions on the project are available too** but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly to discuss other opportunities.
 
 Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
