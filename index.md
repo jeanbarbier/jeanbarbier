@@ -5,23 +5,23 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a researcher in Mathematical Physics of Signals and Learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "City of Science". I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
+I'm Jean Barbier, a researcher in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
 
 ![logos](./docs/logos.png)
 
-My **research interests** are centered around _Information Processing Systems_ such as appearing in Machine Learning, Communication and Error Correction, Signal Processing or Computer Science. I often study these systems and associated algorithms using Statistical Physics --the language used to describe _phase transitions_-- but also its close cousin Information Theory. I try to precisely (and rigorously) quantify what are the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
+My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely (and rigorously) quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
 To contact me use **jbarbier@ictp.it**
 
 You can find a **short CV** [here](./docs/cv.pdf).
 
-All **my articles** can be found through my [Google Scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
+All **my articles** can be found through my [google scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
-A "wide audience" video on Physics and Information Processing Systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between Statistical Physics and Inference without having to read a full research paper, check this [perspective article](https://arxiv.org/pdf/2010.14863.pdf). 
+A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between statistical physics and inference without having to read a full research paper, check this [perspective article](https://arxiv.org/pdf/2010.14863.pdf). 
 
-A conference I particularly enjoy to organize every year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on High-dimensional Statistics in a broad sense.
+A conference I particularly enjoy to organize every year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
 
-For **prospective students** who would like to do a PhD with me, check the [openings](https://pica.cineca.it/sissa/phd-datascience-01-2022/) in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science), or directly contact me.
+For **prospective students** who would like to do a PhD, check the [openings](https://pica.cineca.it/sissa/phd-datascience-01-2022/) in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science), or directly contact me.
 
 Few quotes I find particularly relevant:
 
@@ -35,15 +35,13 @@ In addition to science, I also enjoy a lot electronic music ([some musical exper
 
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
-I feel honoured to be a recipient of a **Starting Grant in Mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. I'm now in the process of hiring brilliant motivated researchers to form a group at ICTP to carry out this exciting and timely project. 
+I feel honoured to be a recipient of a **Starting Grant in mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. I'm now in the process of hiring brilliant motivated researchers to form a group at ICTP to carry out this exciting and timely project. 
 
-CHORAL will develop novel statistical tools to better quantify the performance of Neural Networks trained from structured data. It will combine Random Matrix Theory, Statistical Mechanics and Information Theory, and will blend Physics together with mathematically rigorous approaches. Neural Nets are amazingly powerful algorithms, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to Machine Learning that the project will focus on is of Dictionary Learning. 
+CHORAL will develop novel statistical tools to better quantify the performance of neural networks trained from structured data. It will combine random matrix theory, statistical mechanics and information theory, and will blend physics together with mathematically rigorous approaches. Neural nets are amazingly powerful machines, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to machine learning that the project will focus on is of "dictionary learning". 
 
-See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of CHORAL's starting point. 
+See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of CHORAL's starting point. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
 
-See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
-
-I have **multiple positions open at the postdoctoral level on this ERC project**. These are up to 4 (or even 5) years and come with a competitive salary (ICTP researchers, as UNESCO employees, are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. All that in an [active interdisciplinary environment](https://www.ictp.it/research/qls.aspx) with ideal working conditions, right in front of the sea as you can see:
+I have **multiple positions open at the postdoctoral level on this ERC project**. These are up to four/five years and come with a competitive salary (ICTP researchers, as UNESCO employees, are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. All that in an [active interdisciplinary environment](https://www.ictp.it/research/qls.aspx) with ideal working conditions, right in front of the sea as you can see:
 
 ![ICTP](./docs/ictpView.jpg)
 
@@ -61,7 +59,7 @@ As part of the ICTP community, the postdoc eager to help will also have many opp
 
 It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
 
-**PhD positions on the project are available too** but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly to discuss other opportunities.
+**PhD positions on the project are available too**, but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly to discuss other opportunities.
 
 Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
 
