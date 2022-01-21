@@ -53,7 +53,7 @@ The ideal candidate has a background in at least one or two of the following dis
 * Theoretical machine learning, theory of gradient-based dynamics
 * Theory of (approximate) message passing algorithms
 
-As part of ICTP, the postdoc eager to help will also have many opportunities to help in capacity building in developing countries (but not only) through organization of events, travels, teaching etc. ICTP really is a special place to do top research _and_ make a positive impact, worldwide.
+As part of ICTP, the postdoc eager to help will also have many opportunities to help in capacity building in developing countries (but not only) through organization of events, travels, teaching etc. **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
 
 **PhD positions on the project are available too** but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly to discuss other opportunities.
 
