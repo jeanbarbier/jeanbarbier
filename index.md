@@ -47,10 +47,10 @@ I have **multiple positions open at the postdoctoral level on this ERC project**
 
 The ideal candidate has a background in at least one or two of the following disciplines:
 
-* Random matrix theory, multi-matrix models
+* Random matrix theory
+* Multi-matrix models (as appearing in QCD, string theory, map enumeration etc)
 * Statistical mechanics, disordered systems / spin glasses (from a mathematics or physics perspective)
-* High-dimensional statistics 
-* Probability
+* High-dimensional statistics and probability 
 * Information theory
 * Theoretical machine learning, theory of gradient-based dynamics
 * Theory of (approximate) message passing algorithms
@@ -58,6 +58,8 @@ The ideal candidate has a background in at least one or two of the following dis
 As part of the ICTP community, the postdoc eager to help will also have many opportunities for capacity building in developing countries (but not only) through organization of events, travels and networking, teaching etc. **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
 
 It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
+
+[Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf).
 
 **PhD positions on the project are available too**, but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly to discuss other opportunities.
 
