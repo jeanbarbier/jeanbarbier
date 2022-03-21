@@ -17,6 +17,8 @@ You can find a **short CV** [here](./docs/cv.pdf).
 
 All **my articles** can be found through my [google scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
+I am part of the editorial board of the novel [transactions in machine learning research](https://jmlr.org/tmlr/index.html). 
+
 A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between statistical physics and inference without having to read a full research paper, check this [perspective article](https://arxiv.org/pdf/2010.14863.pdf). 
 
 A conference I particularly enjoy to organize every year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
