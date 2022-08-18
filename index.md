@@ -5,11 +5,11 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). I'm also affiliated to the [Theoretical and Scientific Data Science group at SISSA, Trieste](https://datascience.sissa.it/). 
+I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). As secondary affiliation I'm part of the [Theoretical and Scientific Data Science group at SISSA](https://datascience.sissa.it/).
 
 ![logos](./docs/logos.png)
 
-The ICTP is located right in front of the adriatic sea (see below) in Trieste, Italy, a gorgeous city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". 
+Both my institutes are located in [Trieste](https://www.google.com/maps/place/Trieste,+Province+of+Trieste,+Italy/@45.6458226,13.7398185,12.42z/data=!4m5!3m4!1s0x477b6b06e4edf533:0x666a2484d4dd2b50!8m2!3d45.6495264!4d13.7768182), a gorgeous Italian city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/) and known as the "city of science". Among many others, an enjoyable feature of ICTP is that it is located close enough to the adriatic sea to go for a swim at lunch time :)
 
 ![ICTP](./docs/ictpView.jpg)
 
