@@ -3,13 +3,16 @@ layout: default
 ---
 
 
-# Hello
+# Hello world
 
-I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). As secondary affiliation I'm part of the [Theoretical and Scientific Data Science group at SISSA](https://datascience.sissa.it/).
+I'm Jean Barbier, a Research Scientist (Tenured Associate Professor) in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/), a [UNESCO institute](https://www.unesco.org/en). Our mission is not only the research excellence, but also teaching and scientific capacity building for the developing world: **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
+
+
+As secondary affiliation I'm part of the [Theoretical and Scientific Data Science group at SISSA](https://datascience.sissa.it/).
 
 ![logos](./docs/logos.png)
 
-Both my institutes are located in [Trieste](https://www.google.com/maps/place/Trieste,+Province+of+Trieste,+Italy/@45.6458226,13.7398185,12.42z/data=!4m5!3m4!1s0x477b6b06e4edf533:0x666a2484d4dd2b50!8m2!3d45.6495264!4d13.7768182), a gorgeous Italian city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/) and known as the "city of science". Among many others, an enjoyable feature of ICTP is that it is located close enough to the adriatic sea to go for a swim at lunch time :)
+Both my institutes are located in [Trieste](https://www.google.com/maps/place/Trieste,+Province+of+Trieste,+Italy/@45.6458226,13.7398185,12.42z/data=!4m5!3m4!1s0x477b6b06e4edf533:0x666a2484d4dd2b50!8m2!3d45.6495264!4d13.7768182), a gorgeous Italian city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/) and known as the "city of science". Among many others, an enjoyable feature of ICTP is its location: it is easy to go for a swim at lunch time :)
 
 ![ICTP](./docs/ictpView.jpg)
 
@@ -59,7 +62,7 @@ If you are a motivated researcher looking for a **postdoc position**, do not hes
 * Theoretical machine learning, theory of gradient-based dynamics
 * Theory of (approximate) message passing algorithms
 
-As part of the ICTP community, the postdoc eager to help will also have many opportunities for capacity building in developing countries (but not only) through organization of events, travels and networking, teaching etc. **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
+As part of the ICTP community, the postdoc eager to help will also have many opportunities for capacity building in developing countries (but not only) through organization of events, travels and networking, teaching etc. 
 
 It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
 
