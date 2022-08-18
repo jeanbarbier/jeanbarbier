@@ -5,13 +5,11 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located right in front of the adriatic sea in Trieste, Italy, a gorgeous city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". 
+I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). The ICTP is located right in front of the adriatic sea (see below) in Trieste, Italy, a gorgeous city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". 
 
 ![ICTP](./docs/ictpView.jpg)
 
 I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
-
-![logos](./docs/logos.png)
 
 My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely (and rigorously) quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
@@ -68,5 +66,7 @@ It is also a great moment to join the Trieste (data) science community thanks to
 **PhD positions on the project are available too**, but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
 
 Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
+
+![logos](./docs/logos.png)
 
 ![ERC](./docs/ERC.png)
