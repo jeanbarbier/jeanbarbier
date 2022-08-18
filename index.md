@@ -9,7 +9,7 @@ I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical phy
 
 ![ICTP](./docs/ictpView.jpg)
 
-I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
+I'm also affiliated to the the [Department of Data Science at SISSA, Trieste](https://datascience.sissa.it/). 
 
 My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely (and rigorously) quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
