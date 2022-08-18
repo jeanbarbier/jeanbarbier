@@ -5,7 +5,11 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located in Trieste, Italy, a gorgeous city on the adriatic sea [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
+I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). It is located right in front of the adriatic sea in Trieste, Italy, a gorgeous city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". 
+
+![ICTP](./docs/ictpView.jpg)
+
+I'm also affiliated to the the [Department of Data Science at SISSA](https://datascience.sissa.it/), also in Trieste. 
 
 ![logos](./docs/logos.png)
 
@@ -23,7 +27,7 @@ A "wide audience" video on physics and information processing systems on [Youtub
 
 A conference I particularly enjoy to organize every year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
 
-For **prospective students** who would like to do a PhD, check the [openings](https://pica.cineca.it/sissa/phd-datascience-01-2022/) in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science), or directly contact me.
+For **prospective students** who would like to do a PhD, check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science), or directly contact me.
 
 Few quotes I find particularly relevant:
 
@@ -37,17 +41,15 @@ In addition to science, I also enjoy a lot electronic music ([some musical exper
 
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
-I feel honoured to be a recipient of a **Starting Grant in mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. I'm now in the process of hiring brilliant motivated researchers to form a group at ICTP to carry out this exciting and timely project. 
+I feel honoured to be a recipient of a **Starting Grant in mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. 
 
 CHORAL will develop novel statistical tools to better quantify the performance of neural networks trained from structured data. It will combine random matrix theory, statistical mechanics and information theory, and will blend physics together with mathematically rigorous approaches. Neural nets are amazingly powerful machines, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to machine learning that the project will focus on is of "dictionary learning". 
 
 See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of CHORAL's starting point. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
 
-I have **multiple positions open at the postdoctoral level on this ERC project**. These are up to four/five years and come with a competitive salary (ICTP researchers, as UNESCO employees, are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. All that in an [active interdisciplinary environment](https://www.ictp.it/research/qls.aspx) with ideal working conditions, right in front of the sea as you can see:
+<!--- I have **multiple positions open at the postdoctoral level on this ERC project**. These are up to four/five years and come with a competitive salary (ICTP researchers, as UNESCO employees, are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. -->
 
-![ICTP](./docs/ictpView.jpg)
-
-The ideal candidate has a background in at least one or two of the following disciplines:
+If you are a motivated researcher looking for a **postdoc position**, do not hesitate to contact me (there will be openings soon). The ideal candidate has a background in at least one or two of the following disciplines:
 
 * Random matrix theory
 * Multi-matrix models (as appearing in QCD, string theory, map enumeration etc)
@@ -61,9 +63,9 @@ As part of the ICTP community, the postdoc eager to help will also have many opp
 
 It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
 
-[Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf).
+<!--- [Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf). -->
 
-**PhD positions on the project are available too**, but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science). Check [here for the latest call](https://pica.cineca.it/sissa/phd-datascience-01-2022/) or contact me directly to discuss other opportunities.
+**PhD positions on the project are available too**, but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
 
 Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
 
