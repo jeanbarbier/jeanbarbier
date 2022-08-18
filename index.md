@@ -5,13 +5,13 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). The ICTP is located right in front of the adriatic sea (see below) in Trieste, Italy, a gorgeous city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". 
-
-![ICTP](./docs/ictpView.jpg)
-
-I'm also affiliated to the the [Department of Data Science at SISSA, Trieste](https://datascience.sissa.it/). 
+I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). I'm also affiliated to the the [Department of Data Science at SISSA, Trieste](https://datascience.sissa.it/). 
 
 ![logos](./docs/logos.png)
+
+The ICTP is located right in front of the adriatic sea (see below) in Trieste, Italy, a gorgeous city [famous for its quality of life](https://www.italofile.com/best-places-to-live-in-italy-2021/), and known as the "city of science". 
+
+![ICTP](./docs/ictpView.jpg)
 
 My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely (and rigorously) quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
