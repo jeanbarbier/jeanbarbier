@@ -5,7 +5,7 @@ layout: default
 
 # Hello
 
-I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). I'm also affiliated to the the [Department of Data Science at SISSA, Trieste](https://datascience.sissa.it/). 
+I'm Jean Barbier, a Research Scientist / Associate Professor in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/). I'm also affiliated to the [Theoretical and Scientific Data Science group at SISSA, Trieste](https://datascience.sissa.it/). 
 
 ![logos](./docs/logos.png)
 
