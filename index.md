@@ -30,7 +30,7 @@ A "wide audience" video on physics and information processing systems on [Youtub
 
 A conference I particularly enjoy to organize every year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
 
-For **prospective students** who would like to do a PhD under my supervision, check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me.
+For **prospective students** who would like to do a PhD under my supervision, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me.
 
 Few quotes I find particularly relevant:
 
@@ -68,7 +68,7 @@ It is also a great moment to join the Trieste (data) science community thanks to
 
 <!--- [Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf). -->
 
-**PhD positions on the project are available too**, but funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
+**PhD positions on the project are available too** and are funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
 
 Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
 
