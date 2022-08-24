@@ -35,6 +35,8 @@ For **prospective students** who would like to do a PhD under my supervision, pl
 Few quotes I find particularly relevant:
 
 > If you can't explain it simply, you don't understand it well enough. -- Albert Einstein
+
+> Everything should be made as simple as possible, but not simpler. -- (Attributed to) Albert Einstein
  
 > An expert is a man who has made all the mistakes which can be made in a very narrow field. -- Niels Bohr
 
