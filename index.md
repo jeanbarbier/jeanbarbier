@@ -32,15 +32,15 @@ A conference I particularly enjoy to organize every year (together with an amazi
 
 For **prospective students** who would like to do a PhD under my supervision, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me.
 
-Few quotes I find particularly relevant:
+Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
-> If you can't explain it simply, you don't understand it well enough. -- Albert Einstein
-
-> Everything should be made as simple as possible, but not simpler. -- (Attributed to) Albert Einstein
- 
-> An expert is a man who has made all the mistakes which can be made in a very narrow field. -- Niels Bohr
+> An expert is a person who has found out by his own painful experience all the mistakes that one can make in a very narrow field. -- Niels Bohr quoted by Eward Teller in LIFE magazine (6 September 1954).
 
 > Physics is like sex: sure, it may give some practical results, but that's not why we do it. -- Richard Feynman
+
+> If you can't explain it simply, you don't understand it well enough. -- [Probably based on a similar quote about explaining physics to a barmaid by Ernest Rutherford](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed)
+
+> Everything should be made as simple as possible, but not simpler. -- The (long) story of that quote can be found [here](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
 In addition to science, I also enjoy a lot electronic music ([some musical experiments from my previous life](https://soundcloud.com/junkosaur)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
 
