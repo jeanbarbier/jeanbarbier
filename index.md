@@ -5,8 +5,7 @@ layout: default
 
 # Hello world
 
-I'm Jean Barbier, a Research Scientist (Tenured Associate Professor) in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/), a [UNESCO institute](https://www.unesco.org/en). Our mission is not only the research excellence, but also teaching and scientific capacity building for the developing world: **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
-
+I'm Jean Barbier, a Research Scientist (Tenured Associate Professor) in mathematical physics of signals and learning at the [International Center for Theoretical Physics (ICTP)](https://www.ictp.it/), part of both the [Quantitative Life Science](https://www.ictp.it/qls) and [Mathematics](https://www.ictp.it/math) sections. The ICTP is a [UNESCO institute](https://www.unesco.org/en) whose mission is not only the research excellence, but also teaching and scientific capacity building for the developing world: **ICTP really is a special place to do top research _and_ make a positive impact, worldwide**.
 
 As secondary affiliation I'm part of the [Theoretical and Scientific Data Science group at SISSA](https://datascience.sissa.it/).
 
@@ -16,7 +15,7 @@ Both my institutes are located in [Trieste](https://www.google.com/maps/place/Tr
 
 ![ICTP](./docs/ictpView.jpg)
 
-My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely (and rigorously) quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
+My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
 To contact me use **jbarbier@ictp.it**
 
@@ -24,13 +23,13 @@ You can find a **short CV** [here](./docs/cv.pdf).
 
 All **my articles** can be found through my [google scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
-I am part of the editorial board of the [transactions on machine learning research](https://jmlr.org/tmlr/index.html). Do not hesitate to send your papers there! 
+I am part of the editorial boards of the [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html) and of the [Advances in Theoretical and Mathematical Physics](https://www.intlpress.com/site/pub/pages/journals/items/atmp/_home/_main/index.php). Do not hesitate to send your papers there! 
 
 A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between statistical physics and inference without having to read a full research paper, check this [perspective article](https://arxiv.org/pdf/2010.14863.pdf). 
 
-A conference I particularly enjoy to organize every year (together with an amazing team of friends) is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
+A conference I particularly enjoy to organize every year together with an amazing team of friends is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
 
-For **prospective students** who would like to do a PhD under my supervision, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me.
+For **prospective students** who would like to do a PhD under my supervision, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
 
 Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
@@ -50,25 +49,22 @@ I feel honoured to be a recipient of a **Starting Grant in mathematics from the 
 
 CHORAL will develop novel statistical tools to better quantify the performance of neural networks trained from structured data. It will combine random matrix theory, statistical mechanics and information theory, and will blend physics together with mathematically rigorous approaches. Neural nets are amazingly powerful machines, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to machine learning that the project will focus on is of "dictionary learning". 
 
-See [our recent preprint](https://arxiv.org/pdf/2109.06610.pdf) to get a sense of CHORAL's starting point. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
+Please check my [latest articles](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en) to get a sense of what CHORAL is about. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
 
-<!--- I have **multiple positions open at the postdoctoral level on this ERC project**. These are up to four/five years and come with a competitive salary (ICTP researchers, as UNESCO employees, are exempted of income tax), a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. -->
+I have an opening for **two postdoc positions on this ERC project** of 2+1 years which come with a competitive salary, a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. Do not hesitate to contact me. The ideal candidate has a background in at least one or two of the following disciplines:
 
-If you are a motivated researcher looking for a **postdoc position**, do not hesitate to contact me (there will be openings soon). The ideal candidate has a background in at least one or two of the following disciplines:
-
-* Random matrix theory
-* Multi-matrix models (as appearing in QCD, string theory, map enumeration etc)
 * Statistical mechanics, disordered systems / spin glasses (from a mathematics or physics perspective)
 * High-dimensional statistics and probability 
 * Information theory
 * Theoretical machine learning, theory of gradient-based dynamics
 * Theory of (approximate) message passing algorithms
+* Random matrix theory
 
 As part of the ICTP community, the postdoc eager to help will also have many opportunities for capacity building in developing countries (but not only) through organization of events, travels and networking, teaching etc. 
 
 It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
 
-<!--- [Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf). -->
+<!--- [Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf). --> 
 
 **PhD positions on the project are available too** and are funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
 
