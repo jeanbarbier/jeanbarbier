@@ -70,7 +70,6 @@ It is also a great moment to join the Trieste (data) science community thanks to
 
 Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word to whoever might be interested to join the CHORAL team :)
 
-
-
+![TEAM](./docs/2ECCFEAB-6606-468F-8017-EDBFEFCD053F_1_201_a.jpeg)
 
 ![ERC](./docs/ERC.png)
