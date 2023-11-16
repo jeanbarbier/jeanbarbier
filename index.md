@@ -68,6 +68,9 @@ It is also a great moment to join the Trieste (data) science community thanks to
 
 **PhD positions on the project are available too** and are funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
 
-Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word :)
+Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word to whoever might be interested to join the CHORAL team :)
+
+
+
 
 ![ERC](./docs/ERC.png)
