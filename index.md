@@ -36,8 +36,7 @@ Here is a list of the current active members of the group:
 + Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
 + Gibbs Nwemadji (PhD student)
-+ Alessandro Tamai (PhD student)
-  
++ Alessandro Tamai (PhD student)  
 + Rodrigo Perrez (MSc student, visitor)
 + Koko Okajima (PhD student, visitor)
 + Ali Hussaini (PhD student, visitor)
@@ -46,7 +45,6 @@ Here is a list of the current active members of the group:
 + Rudy Skerk (PhD student, visitor)
 
 as well as the past members:
-
 + Manuel Saenz (postdoc, now Prof. at Nottingham University)
 + Tianqi Hou (PhD student, now at Huawei)
 
