@@ -31,6 +31,25 @@ A conference I particularly enjoy to organize every year together with an amazin
 
 For **prospective students** who would like to do a PhD under my supervision, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
 
+Here is a list of the current active members of the group: 
++ Daria Tieplova (postdoc)
++ Anas Rahman (postdoc)
++ Francesco Camilli (postdoc)
++ Gibbs Nwemadji (PhD student)
++ Alessandro Tamai (PhD student)
+  
++ Rodrigo Perrez (MSc student, visitor)
++ Koko Okajima (PhD student, visitor)
++ Ali Hussaini (PhD student, visitor)
++ Eleonora Bergamin (MSc student, visitor)
++ Hadi Hadavi (MSc student, visitor)
++ Rudy Skerk (PhD student, visitor)
+
+as well as the past members:
+
++ Manuel Saenz (postdoc, now Prof. at Nottingham University)
++ Tianqi Hou (PhD student, now at Huawei)
+
 Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
 > An expert is a person who has found out by his own painful experience all the mistakes that one can make in a very narrow field. -- Niels Bohr quoted by Eward Teller in LIFE magazine (6 September 1954).
@@ -42,7 +61,7 @@ Few quotes I find particularly relevant (the two last are wrongly attributed to 
 > Everything should be made as simple as possible, but not simpler. -- The (long) story of that quote can be found [here](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
 In addition to science, I also enjoy a lot electronic music ([some musical experiments from my previous life](https://soundcloud.com/junkosaur)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
-
+  
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
 I feel honoured to be a recipient of a **Starting Grant in mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. 
@@ -51,7 +70,7 @@ CHORAL will develop novel statistical tools to better quantify the performance o
 
 Please check my [latest articles](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en) to get a sense of what CHORAL is about. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
 
-I have an opening for **two postdoc positions on this ERC project** of 2+1 years which come with a competitive salary, a teaching load decided by the postdoc, and substantial funds for travelling and computer equipment. Do not hesitate to contact me. The ideal candidate has a background in at least one or two of the following disciplines:
+I have an opening for **one to two postdoc positions on this ERC project** of 2+1 years which come with a competitive salary, a small teaching load, and substantial funds for travelling and computer equipment. Do not hesitate to contact me. The ideal candidate has a background in at least one or two of the following disciplines:
 
 * Statistical mechanics, disordered systems / spin glasses (from a mathematics or physics perspective)
 * High-dimensional statistics and probability 
