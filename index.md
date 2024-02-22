@@ -29,7 +29,7 @@ A "wide audience" video on physics and information processing systems on [Youtub
 
 A conference I particularly enjoy to organize every year together with an amazing team of friends is [Youth in High-Dimensions](http://indico.ictp.it/event/9596/overview). It showcases excellent young researchers working on high-dimensional statistics in a broad sense.
 
-For **prospective students** who would like to do a PhD under my supervision, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
+For **prospective students**, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
 
 Here is a list of the current active members of the group: 
 + Daria Tieplova (postdoc)
