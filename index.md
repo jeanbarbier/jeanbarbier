@@ -38,7 +38,7 @@ Here is a list of the current active members of the group:
 + Gibbs Nwemadji (PhD student)
 + Alessandro Tamai (PhD student)  
 + Rodrigo Perrez (MSc student, visitor)
-+ Koko Okajima (PhD student, visitor)
++ Koki Okajima (PhD student, visitor)
 + Ali Hussaini (PhD student, visitor)
 + Eleonora Bergamin (MSc student, visitor)
 + Hadi Hadavi (MSc student, visitor)
