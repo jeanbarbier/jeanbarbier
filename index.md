@@ -31,7 +31,7 @@ A conference I particularly enjoy to organize every year together with an amazin
 
 For **prospective students**, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
 
-Here is a list of the current active members of the group: 
+Here is a list of the current active members of the [CHORAL group](https://sites.google.com/view/choral-ictp/home?authuser=0): 
 + Daria Tieplova (postdoc)
 + Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
@@ -64,11 +64,11 @@ In addition to science, I also enjoy a lot electronic music ([some musical exper
 
 I feel honoured to be a recipient of a **Starting Grant in mathematics from the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8)**. 
 
-CHORAL will develop novel statistical tools to better quantify the performance of neural networks trained from structured data. It will combine random matrix theory, statistical mechanics and information theory, and will blend physics together with mathematically rigorous approaches. Neural nets are amazingly powerful machines, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to machine learning that the project will focus on is of "dictionary learning". 
+[CHORAL](https://sites.google.com/view/choral-ictp/home?authuser=0) will develop novel statistical tools to better quantify the performance of neural networks trained from structured data. It will combine random matrix theory, statistical mechanics and information theory, and will blend physics together with mathematically rigorous approaches. Neural nets are amazingly powerful machines, but their theoretical understanding remains limited when compared to their evergrowing applications in science and technology. A related problem of fundamental interest to machine learning that the project will focus on is of "dictionary learning". 
 
-Please check my [latest articles](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en) to get a sense of what CHORAL is about. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
+Please check my [latest articles](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en) and the [group website](https://sites.google.com/view/choral-ictp/home?authuser=0) to get a sense of what CHORAL is about. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
 
-I have an opening for **one to two postdoc positions on this ERC project** of 2+1 years which come with a competitive salary, a small teaching load, and substantial funds for travelling and computer equipment. Do not hesitate to contact me. The ideal candidate has a background in at least one or two of the following disciplines:
+Do not hesitate to contact me to inquire about postdoc opening. The ideal candidate has a background in at least one or two of the following disciplines:
 
 * Statistical mechanics, disordered systems / spin glasses (from a mathematics or physics perspective)
 * High-dimensional statistics and probability 
@@ -84,8 +84,6 @@ It is also a great moment to join the Trieste (data) science community thanks to
 <!--- [Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf). --> 
 
 **PhD positions on the project are available too** and are funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
-
-Feel free to drop me a mail me to know more about the project and do not hesitate to spread the word to whoever might be interested to join the CHORAL team :)
 
 ![TEAM](./docs/2ECCFEAB-6606-468F-8017-EDBFEFCD053F_1_201_a.jpeg)
 
