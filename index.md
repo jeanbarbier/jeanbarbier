@@ -15,7 +15,7 @@ Both my institutes are located in [Trieste](https://www.google.com/maps/place/Tr
 
 ![ICTP](./docs/ictpView.jpg)
 
-My **research interests** are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. I often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. I try to precisely quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
+The **research interests** of the [CHORAL group](https://sites.google.com/view/choral-ictp/home?authuser=0) are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. We often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. We try to precisely quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
 To contact me use **jbarbier@ictp.it**
 
@@ -31,7 +31,7 @@ A conference I particularly enjoy to organize every year together with an amazin
 
 For **prospective students**, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
 
-Here is a list of the current active members of the [CHORAL group](https://sites.google.com/view/choral-ictp/home?authuser=0): 
+Here is a list of the current active members of the [CHORAL team](https://sites.google.com/view/choral-ictp/home?authuser=0): 
 + Daria Tieplova (postdoc)
 + Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
