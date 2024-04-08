@@ -38,7 +38,6 @@ Here is a list of the current active members of the [CHORAL team](https://sites.
 + Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
 + Gibbs Nwemadji (PhD student)
-+ Alessandro Tamai (PhD student)  
 + Rodrigo Perrez (MSc student, visitor)
 + Koki Okajima (PhD student, visitor)
 + Ali Hussaini (PhD student, visitor)
