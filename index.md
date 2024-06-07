@@ -38,12 +38,12 @@ Here is a list of the current active members of the [CHORAL team](https://sites.
 + Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
 + Gibbs Nwemadji (PhD student)
++ Rudy Skerk (PhD student)
++ Ali Hussaini (PhD student)
 + Rodrigo Perrez (MSc student, visitor)
 + Koki Okajima (PhD student, visitor)
-+ Ali Hussaini (PhD student, visitor)
 + Eleonora Bergamin (MSc student, visitor)
 + Hadi Hadavi (MSc student, visitor)
-+ Rudy Skerk (PhD student, visitor)
 
 as well as the past members:
 + Manuel Saenz (postdoc, now Prof. at Nottingham University)
