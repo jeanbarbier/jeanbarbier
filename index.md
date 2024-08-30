@@ -59,7 +59,7 @@ Few quotes I find particularly relevant (the two last are wrongly attributed to 
 
 > Everything should be made as simple as possible, but not simpler. -- The (long) story of that quote can be found [here](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
-In addition to science, I also enjoy a lot electronic music ([some musical experiments from my previous life](https://soundcloud.com/junkosaur)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
+In addition to science, I also enjoy a lot electronic music ([some musical experiments from my previous life](https://soundcloud.com/junkosaur) and [from my current one](https://soundcloud.com/jean-barbier-409727380/entropie-8-rsb)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
   
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
