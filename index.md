@@ -37,6 +37,8 @@ Here is a list of the current active members of the [CHORAL team](https://sites.
 + Daria Tieplova (postdoc)
 + Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
++ Mauro Pastore (postdoc)
++ Minh Toan Nguyen (postdoc)
 + Gibbs Nwemadji (PhD student)
 + Rudy Skerk (PhD student)
 + Ali Hussaini (PhD student)
