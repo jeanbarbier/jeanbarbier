@@ -35,21 +35,20 @@ For **prospective students**, please check regularly the openings in the PhD pro
 
 Here is a list of the current active members of the [CHORAL team](https://sites.google.com/view/choral-ictp/home?authuser=0): 
 + Daria Tieplova (postdoc)
-+ Anas Rahman (postdoc)
 + Francesco Camilli (postdoc)
 + Mauro Pastore (postdoc)
 + Minh Toan Nguyen (postdoc)
 + Gibbs Nwemadji (PhD student)
 + Rudy Skerk (PhD student)
 + Ali Hussaini (PhD student)
-+ Rodrigo Perrez (MSc student, visitor)
-+ Koki Okajima (PhD student, visitor)
 + Eleonora Bergamin (MSc student, visitor)
-+ Hadi Hadavi (MSc student, visitor)
 
 as well as the past members:
 + Manuel Saenz (postdoc, now Prof. at Nottingham University)
 + Tianqi Hou (PhD student, now at Huawei)
++ Anas Rahman (postdoc)
++ Koki Okajima (PhD student, visitor)
++ Rodrigo Perrez (MSc student, visitor)
 
 Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
@@ -71,7 +70,7 @@ I feel honoured to be a recipient of a **Starting Grant in mathematics from the 
 
 Please check my [latest articles](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en) and the [group website](https://sites.google.com/view/choral-ictp/home?authuser=0) to get a sense of what CHORAL is about. See also a [short article about the project](https://www.ictp.it/about-ictp/media-centre/news/2022/1/jean-barbier-erc.aspx).
 
-Do not hesitate to contact me to inquire about postdoc opening. The ideal candidate has a background in at least one or two of the following disciplines:
+<!--- Do not hesitate to contact me to inquire about postdoc opening. The ideal candidate has a background in at least one or two of the following disciplines:
 
 * Statistical mechanics, disordered systems / spin glasses (from a mathematics or physics perspective)
 * High-dimensional statistics and probability 
@@ -84,10 +83,10 @@ As part of the ICTP community, the postdoc eager to help will also have many opp
 
 It is also a great moment to join the Trieste (data) science community thanks to the newly created [Data Science & Artificial Intelligence Institute](https://www.ictp.it/about-ictp/media-centre/news/2021/4/data-science-institute-mou.aspx), see also [here](https://www.sissa.it/news/data-science-artificial-intelligence-institute-born). 
 
-<!--- [Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf). --> 
+[Here is the call for application](./docs/QLS Postdoctoral call 2022 ERC.pdf).
 
-**PhD positions on the project are available too** and are funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).
-
+**PhD positions on the project are available too** and are funded through the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) (or contact me directly to discuss other opportunities).--> 
+ 
 ![TEAM](./docs/2ECCFEAB-6606-468F-8017-EDBFEFCD053F_1_201_a.jpeg)
 
 ![ERC](./docs/ERC.png)
