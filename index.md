@@ -19,7 +19,7 @@ Both my institutes are located in [Trieste](https://www.google.com/maps/place/Tr
 
 The **research interests** of the [CHORAL team](https://sites.google.com/view/choral-ictp/home?authuser=0) are centered around _information processing systems_ such as appearing in machine learning, communication and error-correction, signal processing or computer science. We often study these systems and associated algorithms using statistical physics --the language used to describe _phase transitions_--, its close cousin information theory, and random matrix theory. We try to precisely quantify what is the optimal performance one can aim for when processing (big) data, as well as how close to optimality one can operate when using _computationally efficient_ algorithms. 
 
-To contact me use **jbarbier@ictp.it**
+To contact me use **jbarbier(at)ictp(dot)it**
 
 You can find a **short CV** [here](./docs/cv.pdf). In a sentence: prior to joining ICTP I did my PhD at [École Normale Supérieure of Paris](https://www.ens.psl.eu/en) with [Florent Krzakala](https://florentkrzakala.com), followed by a postdoc at [EPFL in Lausanne](https://www.epfl.ch/en/) with [Nicolas Macris](https://people.epfl.ch/nicolas.macris). My research is funded by the [European Research Council](https://erc.europa.eu/news/erc-2021-starting-grants-results?fbclid=IwAR0-AB0MH9WFvlv3Ynp9Z6EMXy_0igRVLsIAiUlB7h79ftnLslV5Pxv_Qp8).
 
