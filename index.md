@@ -51,7 +51,7 @@ as well as the past members:
 + Eleonora Bergamin (MSc student, now PhD student in Trieste)
 + Yizhou Xu (MSc student, now PhD student in Lausanne)
 
-Some [lecture notes](./docs/pisa.pdf) I wrote on high-dimensional inference and its links with statistical mechanics.
+Some [lecture notes](./docs/main.pdf) I wrote on high-dimensional inference and its links with statistical mechanics.
 
 Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
