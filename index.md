@@ -25,7 +25,7 @@ You can find a **short CV** [here](./docs/cv.pdf). In a sentence: prior to joini
 
 All **my articles** can be found through my [google scholar](https://scholar.google.com/citations?user=yeE5qqIAAAAJ&hl=en).
 
-I am part of the editorial boards of the [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html) and of the [Advances in Theoretical and Mathematical Physics](https://www.intlpress.com/site/pub/pages/journals/items/atmp/_home/_main/index.php). Do not hesitate to send your papers there! 
+I am part of the editorial boards of [Information and Inference: a Journal of the IMA](https://academic.oup.com/imaiai/pages/editorial_board), the [Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html) and of the [Advances in Theoretical and Mathematical Physics](https://www.intlpress.com/site/pub/pages/journals/items/atmp/_home/_main/index.php). Do not hesitate to send your papers there! 
 
 A "wide audience" video on physics and information processing systems on [Youtube](https://www.youtube.com/watch?v=q1VO5dmymFM&t=5s&ab_channel=ICTPMathematics). In order to go further on the links between statistical physics and inference without having to read a full research paper, check this [perspective article](https://arxiv.org/pdf/2010.14863.pdf). 
 
