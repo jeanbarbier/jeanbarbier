@@ -52,6 +52,7 @@ as well as the past members:
 + Yizhou Xu (MSc student, now PhD student in Lausanne)
 
 Some [lecture notes](./docs/main.pdf) I wrote on high-dimensional inference and its links with statistical mechanics.
+Other lecture notes for the school on [Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/home) in Sapienza University of Rome.
 
 Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
