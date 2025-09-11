@@ -51,10 +51,14 @@ as well as the past members:
 + Eleonora Bergamin (MSc student, now PhD student in Trieste)
 + Yizhou Xu (MSc student, now PhD student in Lausanne)
 
-Some [lecture notes](./docs/main.pdf) I wrote on high-dimensional inference and its links with statistical mechanics.
-Other lecture notes for the school on [Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/home) in Sapienza University of Rome.
+**Some teaching material** 
+[Lecture notes](./docs/main.pdf) I wrote on high-dimensional inference and its links with statistical mechanics.
+[Lecture notes](./docs/GIAN.pdf) for the GIAN school at the Ambedkar National Institute of Technology, Jalandhar, India
+[Lecture notes](./docs/part1_rmt_bbp_beamer.pdf) for the school on [Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/home) in Sapienza University of Rome.
+[Crash course](./docs/interpolation.pdf) on the interpolation and adaptive interpolation methods. 
 
-Few quotes I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
+
+Few **quotes** I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
 > An expert is a person who has found out by his own painful experience all the mistakes that one can make in a very narrow field. -- Niels Bohr quoted by Eward Teller in LIFE magazine (6 September 1954).
 
@@ -64,7 +68,7 @@ Few quotes I find particularly relevant (the two last are wrongly attributed to 
 
 > Everything should be made as simple as possible, but not simpler. -- The (long) story of that quote can be found [here](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
-In addition to science, I also enjoy a lot electronic music ([some musical experiments from my previous life](https://soundcloud.com/junkosaur) and [from my current one](https://soundcloud.com/jean-barbier-409727380)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
+In addition to science, I also enjoy a lot electronic music ([my music](https://soundcloud.com/jean-barbier-409727380), our [Entropie collective](https://soundcloud.com/entropiecollectif) and [musical experiments from my previous life](https://soundcloud.com/junkosaur)), and pretty much any mean of riding/gliding snow, water or air. I also love holding my breath while free diving.
   
 # ERC project CHORAL: Computational Hardness Of RepresentAtion Learning
 
