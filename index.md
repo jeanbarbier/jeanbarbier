@@ -51,15 +51,7 @@ as well as the past members:
 + Eleonora Bergamin (MSc student, now PhD student in Trieste)
 + Yizhou Xu (MSc student, now PhD student in Lausanne)
 
-**Some teaching material** 
-
-[Lecture notes](./docs/main.pdf) I wrote on high-dimensional inference and its links with statistical mechanics.
-
-[Lecture notes](./docs/GIAN.pdf) for the GIAN school at the Ambedkar National Institute of Technology, Jalandhar, India
-
-[Lecture notes](./docs/part1_rmt_bbp_beamer.pdf) for the school on [Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/home) in Sapienza University of Rome.
-
-[Crash course](./docs/interpolation.pdf) on the interpolation and adaptive interpolation methods. 
+**Some teaching material:** [Lecture notes](./docs/main.pdf) I wrote on high-dimensional inference and its links with statistical mechanics. [Lecture notes](./docs/GIAN.pdf) on random matrix theory, BBP transition and Bayesian inference written for the GIAN school at the Ambedkar National Institute of Technology, Jalandhar, India. [Lecture notes](./docs/part1_rmt_bbp_beamer.pdf) on random matrix theory, AMP, etc, for the school on [Mathematical methods for high-dimensional data](https://sites.google.com/view/math-high-dimensional-data/home) in Sapienza University of Rome. [Crash course](./docs/interpolation.pdf) on the interpolation and adaptive interpolation methods. 
 
 Few **quotes** I find particularly relevant (the two last are wrongly attributed to Albert Einstein, yet I like them):
 
