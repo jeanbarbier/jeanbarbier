@@ -34,12 +34,14 @@ A conference I particularly enjoy to organize every year together with an amazin
 For **prospective students**, please check regularly the openings in the PhD program in [Theoretical and Scientific Data Science at SISSA](https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science) or directly contact me. For Master Theses, please contact me directly.
 
 Here is a list of the current active members of the [CHORAL team](https://sites.google.com/view/choral-ictp/home?authuser=0): 
++ Brandon Livio Annesi (postdoc)
 + Mauro Pastore (postdoc)
 + Minh Toan Nguyen (postdoc)
 + Gibbs Nwemadji (PhD student)
 + Rudy Skerk (PhD student)
 + Ali Hussaini (PhD student)
 + Cristofer Erazo (PhD student)
++ Luca Camagna (PhD student)
 
 as well as the past members:
 + Francesco Camilli (postdoc, now Prof. at Bologna University)
@@ -48,7 +50,7 @@ as well as the past members:
 + Manuel Saenz (postdoc, now Prof. at San Andres University)
 + Tianqi Hou (visiting PhD student, now staff at Huawei)
 + Koki Okajima (visiting PhD student, PhD student in Tokyo)
-+ Rodrigo Perrez (MSc student, now PhD student in Bologna)
++ Rodrigo Perez Ortiz (MSc student, now PhD student in Bologna)
 + Eleonora Bergamin (MSc student, now PhD student in Trieste)
 + Yizhou Xu (MSc student, now PhD student in Lausanne)
 
